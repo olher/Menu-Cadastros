@@ -1,0 +1,6 @@
+Leonardo, 22
+Raisa, 20
+Rafael, 10
+Diogo, 27
+Eliana, 48
+Eduardo, 60
